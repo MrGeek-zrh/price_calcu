@@ -1,0 +1,3 @@
+cd  d:/software3/Price-Calculate-sister/imple_code/
+cp .\calculator-price.py .\calculator-price.pyw
+pyinstaller --onefile --noconsole calculator-price.pyw
